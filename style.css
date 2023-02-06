@@ -1,0 +1,42 @@
+h1{
+  font-weight: bold;  
+ background-color: rgb(164, 130, 196);
+ margin-top: 10px;
+ 
+}
+p{
+    color: rgb(14, 128, 61);
+    font-weight: bolder;
+    font-size: larger;
+}
+#pic{
+    border-radius: 30%;
+    border-style:solid;
+    border-color: rgb(228, 11, 94);
+    margin-left: 400px;
+}
+body{
+    background-image: url("online_sh.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 800px;
+    
+}
+p1{
+    color: sienna;
+    font-size: medium;
+}
+.navigation{
+    color: bisque;
+    text-decoration: underline;
+   margin-left: 45%;
+   margin-right: 45%;
+   margin-top: 2%;
+   padding: 2px;
+    background-color: rgb(224, 70, 70);
+    font-weight: bold;
+
+}
+a{
+    text-decoration-color: rgb(221, 37, 98);
+    color:black
+}
